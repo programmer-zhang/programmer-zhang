@@ -18,17 +18,20 @@
 
 ### <p align="center"> An avid :soccer:soccer and :basketball:basketball fan </p>
 
-<p align="left">
-	<a href="https://github.com/programmer-zhang" target="blank">
-		<img src="https://github-readme-stats.vercel.app/api?username=programmer-zhang&theme=dark&show_icons=true" width="50%" alt="Savuer's github stats"/>
+<p align="center">
+	<a href="https://github.com/programmer-zhang" target="_blank">
+		<img src="https://github-readme-stats.vercel.app/api?username=programmer-zhang&theme=dark&show_icons=true" width="45%" alt="Savuer's github stats"/>
 	</a>
-	<a href="https://github.com/programmer-zhang" target="blank">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-zhang&layout=compact&hide=html&theme=dark" width="50%" alt="savuer's github top skills"/>
+	<a href="https://github.com/programmer-zhang" target="_blank">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-zhang&layout=compact&hide=html&theme=dark" width="45%" alt="savuer's github top skills"/>
+	</a>
+	<a href="https://github.com/programmer-zhang" target="_blank">
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=programmer-zhang&theme=highcontrast" width="45%" alt="savuer's github readme streak stats"/>
 	</a>
 </p>
 
 ### Languages and Tools
-<p align="left">
+<p align="center">
 	<img src="./images/html.svg" width="40" height="40" alt="html" />
 	<img src="./images/css.svg" width="40" height="40" alt="css" />
 	<img src="./images/javascript.svg" width="40" height="40" alt="javascript" />
@@ -58,11 +61,13 @@
 ### How to reach me
 <p align="left">
 	<img src="./images/juejinlogo.svg" width="40" height="40" alt="juejinlogo" />
-	<a href="https://juejin.cn/user/3157453125195192" target="_blank" style="height:40px;line-height:40px;display:inline-block;verticle-align:middle;">全栈道路</a>
+	<a href="https://juejin.cn/user/3157453125195192" target="_blank" style="height:40px;line-height:40px;display:inline-block;verticle-align:middle;">掘金: 全栈道路</a>
 </p>
 <p align="left">
+	<a href="https://blog.csdn.net/tufei_zhang" target="_blank" style="height:40px;line-height:40px;display:inline-block;verticle-align:middle;">
 	<img src="./images/csdnlogo.png" width="80" height="40" alt="csdnlogo" />
-	<a href="https://blog.csdn.net/tufei_zhang" target="_blank" style="height:40px;line-height:40px;display:inline-block;verticle-align:middle;">全栈道路</a>
+	CSDN: 全栈道路
+	</a>
 </p>
 <p align="left">
 	<img src="./images/wx.png" width="310" height="120" alt="wechat" />
