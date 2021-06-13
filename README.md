@@ -59,16 +59,15 @@
 </p>
 
 ### How to reach me
-<p align="left">
-	<img src="./images/juejinlogo.svg" width="40" height="40" alt="juejinlogo" />
-	<a href="https://juejin.cn/user/3157453125195192" target="_blank" style="height:40px;line-height:40px;display:inline-block;verticle-align:middle;">掘金: 全栈道路</a>
-</p>
-<p align="left">
-	<a href="https://blog.csdn.net/tufei_zhang" target="_blank" style="height:40px;line-height:40px;display:inline-block;verticle-align:middle;">
-	<img src="./images/csdnlogo.png" width="80" height="40" alt="csdnlogo" />
-	CSDN: 全栈道路
-	</a>
-</p>
-<p align="left">
-	<img src="./images/wx.png" width="310" height="120" alt="wechat" />
-</p>
+
+<table>
+    <tr align="center">
+        <td><img src="./images/juejinlogo.svg" width="40" height="40" alt="juejinlogo" /></td>
+        <td><img src="./images/csdnlogo.png" width="80" height="40" alt="csdnlogo" /></td>
+        <td rowspan="2"><img src="./images/wx.png" width="310" height="120" alt="wechat" /></td>
+    </tr>
+    <tr>
+        <td><a href="https://juejin.cn/user/3157453125195192" target="_blank">掘金: 全栈道路</a></td>
+        <td><a href="https://blog.csdn.net/tufei_zhang" target="_blank">CSDN: 全栈道路</a></td>
+    </tr>
+</table>
