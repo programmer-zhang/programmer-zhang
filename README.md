@@ -1,4 +1,4 @@
-<p style="font-size: 30px; font-weight: 700; text-align: center;">我们是永不倒的泰山</p>
+<p align="center" style="font-size: 30px; font-weight: 700;">我们是永不倒的泰山</p>
 
 <img src="./images/bg.jpeg" width="100%" style="border-radius: 4px;"/>
 
