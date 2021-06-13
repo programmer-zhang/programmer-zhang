@@ -16,13 +16,16 @@
 
 ### <p align="center"> An avid :soccer:soccer and :basketball:basketball fan </p>
 
-<a href="https://github.com/programmer-zhang" target="blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=programmer-zhang&theme=dark&show_icons=true" width="100%" alt="Savuer's github stats"/>
-</a>
-	
-<a href="https://github.com/programmer-zhang" target="blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-zhang&layout=compact&hide=html&theme=dark" width="100%" alt="savuer's github top skills"/>
-</a>
+<p align="left">
+	<a href="https://github.com/programmer-zhang" target="blank">
+		<img src="https://github-readme-stats.vercel.app/api?username=programmer-zhang&theme=dark&show_icons=true" width="100%" alt="Savuer's github stats"/>
+	</a>
+
+	<a href="https://github.com/programmer-zhang" target="blank">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-zhang&layout=compact&hide=html&theme=dark" width="100%" alt="savuer's github top skills"/>
+	</a>
+</p>
+
 
 ### Languages and Tools
 <p align="left">
