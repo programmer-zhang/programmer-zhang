@@ -6,7 +6,7 @@
 
 #### <p align="center"> :soccer: 我们不可阻挡! :soccer:</p>
 
-#### <p align="center"> :soccer: 努力拼搏, 一起战斗! :soccer:</p>
+#### <p align="center"> :soccer: 荣辱与共, 一起战斗! :soccer:</p>
 
 #### <p align="center"> :soccer: 我们永远在这里! :soccer:</p>
 
